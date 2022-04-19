@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Assignment 1
 
-You can use the [editor on GitHub](https://github.com/dmoulds89/201586111.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can access the python model [HERE](https://github.com/dmoulds89/201586111.github.io/blob/main/model.py).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can access the agents framework model [HERE](https://github.com/dmoulds89/201586111.github.io/blob/main/agentframework.py).
+
+You can access the Raster text file [HERE](https://github.com/dmoulds89/201586111.github.io/blob/main/in.txt) and the README file [HERE](https://github.com/dmoulds89/201586111.github.io/blob/main/README.md)
 
 ### Markdown
 
